@@ -136,7 +136,17 @@ Once that is sorted, you can analyze the situation at your own pace and take act
 
 Another way is to check #members-log & #messages-log, if you notice any inappropriate behaviour, you can go back to those chats to check nothing went wrong.
 
-ㅤ
+# Accountability
+
+As a moderator, you have an expected level of accountability. A member is expected to admit when they’re in the wrong, and as a mod, even more so. You should hold members accountable for their actions, but also you should hold other co-mods, admins, and yourself accountable for their actions. This will help establish a level of trust that you and everyone else is willing to change. Similarly, if someone holds you accountable, take it seriously. Weigh the reasons for the confrontation, and be willing to adapt.
+
+# Staff Communication
+
+Communication skills are key to effective moderation. This can include catching up and/or explaining certain scenarios that have gone down, but can also include more personal things that might hinder one's ability to moderate in certain situations It is important that all active moderators are aware of different situations around the server, so as to not give undeserved "leniency" or hostility.
+
+By ensuring everyone is aware of events on this server, this can be avoided since all the facts are there, it's just up to interpretation. For a similar reason, it's helpful to discuss actions with other moderators before taking them. This is not always necessary, but some non-immediate situations may first go through a review Personal things can include stuff such as the inability to moderate on certain days/times because of some other factor. It could also include biases towards certain members, if you've interacted with them before.
+
+Being able to communicate certain topics with other moderators creates an open environment of trust and a reassurance that others will step in to assist. To protect from really personal information, it's okay to generalize some information when discussing, but make sure the point is communicated across. ㅤ ㅤ
 ㅤ
 ㅤ
 
