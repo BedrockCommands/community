@@ -70,10 +70,7 @@ If you remember the syntax you can use ` ! ` prefix else use ` / ` with auto-sug
 - `!warns [user]`
     - Gets all warns about a user.
 - `!warn [user] [reason]`
-    - Warns a user.
     - use this if you can't use the application.
-- `!unwarn [user]`
-    - Closes all warns for a user.
 
 You don't need to panic or feel hasty in any situation, feel free to take your time to think through or discuss with other moderators if you are ever in doubt :heart:
 
@@ -83,6 +80,8 @@ You don't need to panic or feel hasty in any situation, feel free to take your t
     - use this if you can't use the application.
     - ex: `!mute @troll 7d spamming`
     - ex: `!mute @memer 3h spamming`
+- `!unmute [user] [reason]`
+    - use this if you can't use the application.
 
 You are allowed to mute members *potentially* involved in an argument if you cannot make a proper decision immediately. You can unmute those not guilty shortly after.
 
@@ -90,12 +89,19 @@ Note; you may also mute using the 'timeout' option in members profile but try to
 
 ### Kick
 
-- `!kick @user`
-- 
+- `!kick [user] [reason]`
+    - use this if you can't use the application.
 
 In some cases where a member cannot fix their mistake immediately, you can kick them. *ex: a new member joins with nsfw pfp but are not online to change it.*
 
-### lockdown
+### Ban
+
+- `!ban [user] [duration] [reason]
+    - use this if you can't use the application.
+- `!unban [user] [reason]`
+
+### Lockdown
+
 - `!lockdown` (lock server)
 - `!lockdown end` (unlock server)
 - `!lock #channel`
@@ -103,14 +109,8 @@ In some cases where a member cannot fix their mistake immediately, you can kick 
 
 You can lock down the particular channel or the whole server if too many members are involved in an argument, raid etc..
 
-### ban
+# Case
 
-- `!ban noappeal @user toxicity`
-    - *permanent ban, delete messages, no appeal*
-- `!ban @user 7d spamming`
-    - *temporay ban, delete messages*
-- `!ban save @user 7d arguing`
-    - *temporary ban, save messages.*
 
 # Practical
 
