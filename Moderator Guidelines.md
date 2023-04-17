@@ -36,14 +36,12 @@ Note; this doesn't mean moderators must follow this order as some of our rules a
 
 # Zero Tolerance Rules
 
-**Respect & Etiquette**
-- **9, 10:** *(doxxing & discrimination)*
-
-**Communication**
-- **12:** *(discussion of detailed nsfw)*
-
-**Profile & Media Sharing**
-- **1, 2, 7, 8** *(profile promoting adult content/breaking tos, alts/ddos attack, stealing content/breach of licence, nsfw media/streaming)*
+- **Respect & Etiquette**
+    - **9, 10:** *(doxxing & discrimination)*
+- **Communication**
+    - **12:** *(discussion of detailed nsfw)*
+- **Profile & Media Sharing**
+    - **1, 2, 7, 8** *(profile promoting adult content/breaking tos, alts/ddos attack, stealing content/breach of licence, nsfw media/streaming)*
 
 0 tolerance rule violations __must__ be reported to discord if relevant before purging the messages & banning.
 
@@ -67,28 +65,43 @@ If any server was promoted make sure you copy that server ID/invite.
 
 If you remember the syntax you can use ` ! ` prefix else use ` / ` with auto-suggestions and auto-complete.
 
-### mute
-- `!mute @user <duration>`
-    - ex: `!mute @troll 7d`
-    - ex: `!mute @memer 3h`
+### Warn
+ㅤ
+- `!warns [user]`
+    - Gets all warns about a user.
+- `!warn [user] [reason]`
+    - Warns a user.
+    - use this if you can't use the application.
+- `!unwarn [user]`
+    - Closes all warns for a user.
+
+You don't need to panic or feel hasty in any situation, feel free to take your time to think through or discuss with other moderators if you are ever in doubt :heart:
+
+### Mute
+
+- `!mute [user] [duration] [reason]`
+    - use this if you can't use the application.
+    - ex: `!mute @troll 7d spamming`
+    - ex: `!mute @memer 3h spamming`
 
 You are allowed to mute members *potentially* involved in an argument if you cannot make a proper decision immediately. You can unmute those not guilty shortly after.
 
-Note; you may also mute using the 'timeout' option in members profile.
+Note; you may also mute using the 'timeout' option in members profile but try to avoid this method as it can be bypassed.
 
-### lockdownㅤ
+### Kick
+
+- `!kick @user`
+- 
+
+In some cases where a member cannot fix their mistake immediately, you can kick them. *ex: a new member joins with nsfw pfp but are not online to change it.*
+
+### lockdown
 - `!lockdown` (lock server)
 - `!lockdown end` (unlock server)
 - `!lock #channel`
 - `!unlock #channel`
 
 You can lock down the particular channel or the whole server if too many members are involved in an argument, raid etc..
-
-### kick
-
-- `!kick @user`
-
-In some cases where a member cannot fix their mistake immediately, you can kick them. *ex: a new member joins with nsfw pfp but are not online to change it.*
 
 ### ban
 
@@ -98,27 +111,6 @@ In some cases where a member cannot fix their mistake immediately, you can kick 
     - *temporay ban, delete messages*
 - `!ban save @user 7d arguing`
     - *temporary ban, save messages.*
-
-### warn
-ㅤ
-- `!warnings @user` (see warnings for a user)
-- `!reason @user [ID] [reason]` (edit/supply reason for a mod case)
-- `!warn @user [reason]`
-
-With every warn you __must__ mention rule from which category was broken. You can choose to simply copy-paste from rules like so:
-```
-!warn @user
-**Rule A**
-> 2. Avoid disturbing staff or other members with pings, especially if asked not to. (including reply ping)
-```
-Although make sure you are being very clear in the context of that particular case. So you are free to write your own reason and explanation in reference to our rules. ex:
-```
-!warn @user **Rule B** persistent arguing
-```
-
-Make sure to advise the member to direct any further messages about it to #contact-staff. Also ask them to next time ask staff if they're in doubt or to go through the rules to avoid getting in trouble again.
-ㅤ
-You don't need to panic or feel hasty in any situation, feel free to take your time to think through or discuss with other moderators if you are ever in doubt :heart:
 
 # Practical
 
