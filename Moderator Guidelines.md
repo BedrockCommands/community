@@ -120,6 +120,24 @@ Make sure to advise the member to direct any further messages about it to #conta
 ㅤ
 You don't need to panic or feel hasty in any situation, feel free to take your time to think through or discuss with other moderators if you are ever in doubt :heart:
 
+# Practical
+
+It is easier to handle a situation that might arise when you're present in chat. But what if something started in your absence and is happening when you just came online?
+Then you might need to backread a little to understand what's going on to be able to take proper decision.
+
+Though before you do that make sure you tell the members involved to stop/move on (verbal warning.) Ofcourse, you can mute any of them persistently involved temporarily even if you don't have immediate evidence they did something wrong.
+
+Once that is sorted, you can analyze the situation at your own pace and take action accordingly.
+- That person who might've got caught in the cross-fire?
+    - Just unmute them if they didn't do anything wrong and clarify it was simply part of moderation; to calm down the atmosphere.
+
+- What if something already happened & ended in your absence?
+    - In an active server, back-reading everything is simply not possible and something you can't waste your time on. Just skim through all the new messages, only stop to check closely if you notice anything wrong. You also don't need to bother too much if you see another moderator part of those conversations and taken care of it.
+
+Another way is to check #members-log & #messages-log, if you notice any inappropriate behaviour, you can go back to those chats to check nothing went wrong.
+
+ㅤ
+ㅤ
 ㅤ
 
 
