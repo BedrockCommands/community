@@ -63,7 +63,9 @@ If any server was promoted make sure you copy that server ID/invite.
 
 ## Commands
 
-If you remember the syntax you can use ` ! ` prefix else use ` / ` with auto-suggestions and auto-complete.
+To avoid mistakes simply use the applications but if you are experienced and confident you may use these command alternatives.
+
+Note; some features are not available in applications and you will need to use commands itself.
 
 ### Warn
 ㅤ
@@ -112,13 +114,22 @@ You can lock down the particular channel or the whole server if too many members
 ### Case
 
 - `!caseinfo [id]`
-    - get information about a particular case (warn, ban, mute etc..)
+    - get information about a particular case (warn, ban, mute, note etc..)
 - `!caselist [user]`
-    - see all case history or just for a particular user.
+    - see case history for everyone or just a particular user.
 - `!caseupdate [id] [info]`
     - update information about a case.
  - `!casedelete [id]`
     - delete a particular case.
+
+### Notes
+
+- `!usernotes <user>`
+    - get all notes on a user.
+- `!usernotes <user> [note]`
+    - add a note to a user.
+
+Notes are similar to warns but it's only for moderators to provide further detail and insight on a particular user for other moderators to take more appropriate decisions.
 
 # Practical
 
@@ -146,10 +157,4 @@ Communication skills are key to effective moderation. This can include catching 
 
 By ensuring everyone is aware of events on this server, this can be avoided since all the facts are there, it's just up to interpretation. For a similar reason, it's helpful to discuss actions with other moderators before taking them. This is not always necessary, but some non-immediate situations may first go through a review Personal things can include stuff such as the inability to moderate on certain days/times because of some other factor. It could also include biases towards certain members, if you've interacted with them before.
 
-Being able to communicate certain topics with other moderators creates an open environment of trust and a reassurance that others will step in to assist. To protect from really personal information, it's okay to generalize some information when discussing, but make sure the point is communicated across. ㅤ ㅤ
-ㅤ
-ㅤ
-
-
-
-
+Being able to communicate certain topics with other moderators creates an open environment of trust and a reassurance that others will step in to assist. To protect from really personal information, it's okay to generalize some information when discussing, but make sure the point is communicated across.
