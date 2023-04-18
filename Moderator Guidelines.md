@@ -111,6 +111,14 @@ You can lock down the particular channel or the whole server if too many members
 
 # Case
 
+- `!caseinfo [id]`
+    - get information about a particular case (warn, ban, mute etc..)
+- `!caselist [user]`
+    - see all case history or just for a particular user.
+- `!caseupdate [id] [info]`
+    - update information about a case.
+ - `!casedelete [id]`
+    - delete a particular case.
 
 # Practical
 
