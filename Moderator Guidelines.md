@@ -109,7 +109,7 @@ In some cases where a member cannot fix their mistake immediately, you can kick 
 
 You can lock down the particular channel or the whole server if too many members are involved in an argument, raid etc..
 
-# Case
+### Case
 
 - `!caseinfo [id]`
     - get information about a particular case (warn, ban, mute etc..)
