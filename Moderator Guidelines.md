@@ -1,3 +1,5 @@
+# Overview
+
 As a moderator your main responsibility is to actively (or at least semi-actively) interact with the community, contribute to friendly conversations and make new members feel welcomed.
 Basically ensure a nice atmosphere for everyone and be someone other members can look up to :heart:
 
@@ -8,6 +10,8 @@ We highly suggest you read through the quality resources available at (DMA) **Di
 This will greatly aid you in efficiently moderating not only this server but any community.
 
 Below will be information about moderation standards & tools of this server. We will go over them one by one.
+
+## Table Of Contents
 - Moderation Standard
 - 0 Tolerance Rules
 - Trolls, Spam Bots & Raids
@@ -19,7 +23,7 @@ Below will be information about moderation standards & tools of this server. We 
 
 # Moderation Standard
 
-You are *required* to warn members for __each and every__ rule violation. If it's something trivial or silly then just tell them softly or overlook the case.
+You are *required* to warn members for __each and every__ rule violation. If it's something trivial or silly then just tell them softly or overlook the case but do make a note of it.
 
 If a member breaks a rule from the **__same__** category:
 ```
@@ -45,11 +49,11 @@ Note; this doesn't mean moderators must follow this order as some of our rules a
 
 0 tolerance rule violations __must__ be reported to discord if relevant before purging the messages & banning.
 
-Note; even in this category some cases may not be as severe or just borderline. If so just give a stern warning against it.
+Note; even in this category some cases may not be as severe or just borderline. If so just give a stern warning against it or @Moderators to call a discussion.
 
 # Trolls, Spam Bots & Raids
 
-If you find anyone blatantly breaking rules solely to cause drama mute them permanently. *(Report to discord and permban if any major rules have been broken.)*
+If you find anyone blatantly breaking rules solely to cause drama mute them permanently. *(Report to discord and ban if any major rules have been broken.)*
 
 If evident an account is botted, report and ban immediately. *(If it's a hacked account of an existing member only kick the user.)*
 
@@ -59,30 +63,31 @@ If any server was promoted make sure you copy that server ID/invite.
 # Tools & Actions
 
 ## Applications
+
+Applications are the easiest way to warn, mute, kick or ban a user or bulk delete/purge messages. It is encouraged to use this mode to avoid mistakes but you may use commands instead if you are more experienced and confident with that.
+
 ![20230403_085653](https://user-images.githubusercontent.com/99989764/232468906-70f8344c-25ca-44b7-b215-10176c562c58.png)
 
 ## Commands
-
-To avoid mistakes simply use the applications but if you are experienced and confident you may use these command alternatives.
 
 Note; some features are not available in applications and you will need to use commands itself.
 
 ### Warn
 ㅤ
-- `!warns [user]`
+- `/warns [user]`
     - Gets all warns about a user.
-- `!warn [user] [reason]`
+- `/warn [user] [reason]`
     - use this if you can't use the application.
 
 You don't need to panic or feel hasty in any situation, feel free to take your time to think through or discuss with other moderators if you are ever in doubt :heart:
 
 ### Mute
 
-- `!mute [user] [duration] [reason]`
+- `/mute [user] [duration] [reason]`
     - use this if you can't use the application.
-    - ex: `!mute @troll 7d spamming`
-    - ex: `!mute @memer 3h spamming`
-- `!unmute [user] [reason]`
+    - ex: `/mute @troll 7d spamming`
+    - ex: `/mute @memer 3h spamming`
+- `/unmute [user] [reason]`
     - use this if you can't use the application.
 
 You are allowed to mute members *potentially* involved in an argument if you cannot make a proper decision immediately. You can unmute those not guilty shortly after.
@@ -91,45 +96,50 @@ Note; you may also mute using the 'timeout' option in members profile but try to
 
 ### Kick
 
-- `!kick [user] [reason]`
+- `/kick [user] [reason]`
     - use this if you can't use the application.
 
 In some cases where a member cannot fix their mistake immediately, you can kick them. *ex: a new member joins with nsfw pfp but are not online to change it.*
 
 ### Ban
 
-- `!ban [user] [duration] [reason]
+- `/ban [user] [duration] [reason]
     - use this if you can't use the application.
-- `!unban [user] [reason]`
+- `/unban [user] [reason]`
 
 ### Lockdown
 
-- `!lockdown` (lock server)
-- `!lockdown end` (unlock server)
-- `!lock #channel`
-- `!unlock #channel`
+- `/lockdown` (lock server)
+- `/lockdown end` (unlock server)
+- `/lock #channel`
+- `/unlock #channel`
 
 You can lock down the particular channel or the whole server if too many members are involved in an argument, raid etc..
 
 ### Case
 
-- `!caseinfo [id]`
+- `/caseinfo [id]`
     - get information about a particular case (warn, ban, mute, note etc..)
-- `!caselist [user]`
+- `/caselist [user]`
     - see case history for everyone or just a particular user.
-- `!caseupdate [id] [info]`
+- `/caseupdate [id] [info]`
     - update information about a case.
- - `!casedelete [id]`
+ - `/casedelete [id]`
     - delete a particular case.
 
 ### Notes
 
-- `!usernotes <user>`
+- `/usernotes <user>`
     - get all notes on a user.
-- `!usernotes <user> [note]`
+- `/usernotes <user> [note]`
     - add a note to a user.
 
 Notes are similar to warns but it's only for moderators to provide further detail and insight on a particular user for other moderators to take more appropriate decisions.
+
+### Nick
+
+- `/setnick [user] [nickname]`
+    - edit your nickname or another user's nickname.
 
 # Practical
 
