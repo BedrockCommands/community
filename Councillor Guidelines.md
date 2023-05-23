@@ -8,7 +8,7 @@ Bedrock Commands Community is a very general group for anyone and everyone who s
 It is a "community" server. Therefore, it is important that all the decisions dictating the present and future of the server must also be made by these members of the community.
 
 However, it is also important to note that, not every member is equally capable of making well informed decisions in a civil manner and a community that is "full democracy" only leads to chaos.<br>
-Hence, this requires we establish a team of capable councillors who will listen to the voice of each group, weigh the pros and cons of the options and collectively make well informed decisions for the community.
+Hence, this requires we establish a team of capable councillors who will listen to the voice of each group, weigh the pros and cons of the options and collectively make well informed decisions for the community. 
 
 # Decision Making
 
@@ -34,6 +34,17 @@ Council members have access to a private channel for council discussions and vot
 # Responsibilities
 
 - As a representative for the Bedrock Commands community, it is important that you strictly uphold our community standards, rules & guidelines.
-- Make sure other council members and moderators also adhere to it. and hold them accountable for their actions.
+- Make sure other council members and moderators also adhere to it and hold them accountable for their actions.
 - Maintain a strong cohesion with the moderation department. Moderators and councillors are equally important and one role isn't superior to the other.
 - A lack of responsibility will result in you being removed from the team.
+
+# Team Evaluation
+
+As a community server, the people incharge will keep changing as time goes on.<br>
+When you feel it is time, evaluate the council members team annually.<br>
+Evaluate your involvment and overall behaviour in the server over the year, likewise for your fellow members.<br>
+At the end, see if it would be best for some new members to join the team for some of the old members to be able to step down/retire.
+
+# Resignation
+
+Should you at any point feel that you need to step down from your role due to any reason, do not hesitate to inform the team.
