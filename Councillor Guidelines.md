@@ -23,9 +23,10 @@ Hence, this requires we establish a team of capable councillors who will listen 
     - When the discussion comes to an end after considering the pros and cons of each option, it can be concluded with a public vote within the post.
     - In more difficult or major decisions, a private vote can be held for only council members to decide and addtionaly a public vote through #announcments if needed.
     - In case some council members are absent, the decision through private vote can be finalised as long as at least 80% of the team was involved.
+    - Leader vote will be counted as votes of 2 members.
 
 - **Implementing Change**
-    - Once the feedback has been considered by the community members and council, it will be implemented by the server owners (admins) after careful review and approval.
+    - Once the feedback has been considered by the community members and council, it will be implemented by the admin leaders after careful review.
 
 # Permissions
 
