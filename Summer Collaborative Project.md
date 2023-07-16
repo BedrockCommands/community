@@ -35,6 +35,8 @@ You are responsible for giving players the points they have earned from playing 
 /give @s allow
 /give @s deny
 ```
+- Structures ARE allowed, but make sure these are in a folder with your string name. (eg. ..structures/spleef/level_1; this would be given the structure name "spleef:level_1")
+- Scripting will not be allowed due to the instability that they cause between versions.
 
 ### Queries
 You are able to query if players have certain query properties, these are as follows:
