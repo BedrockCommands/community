@@ -28,6 +28,10 @@ You are responsible for giving players the points they have earned from playing 
 - Podium: 1st Place gets 3 points, 2nd Place gets 2, 3rd Place gets 1
 - Timed: All players who finish the minigame within the allocated time get 1 point!
 
+### Scoreboards, Tags and Structures:
+You may use scoreboards, tags and/or structures, but they MUST have your assigned string at the start, eg "spleef_winner" or "spleef_time"
+Your scoreboards and tags should be noted in the information.txt file so they can be added and removed when your minigame is activated/deactivated
+
 ### Things to note:
 - Your plot will directly border another player’s plot; be considerate with blocks (eg. water, lava etc)
 - Players will be in adventure mode, so if your minigame includes mining or placing blocks, you should use allow/deny blocks using the following commands:
