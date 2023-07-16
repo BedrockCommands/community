@@ -4,9 +4,9 @@
 ### How it will work:
 Players will be able to create their own minigame that can be played in our Summer Collaborative Minigame map!
 When you register your interest, you will be given a specific ID and string:
-Your ID will serve as both your plot number and your ‘minigame’ score number
-Your string will be the name that you should give to your dedicated function folder.
-When your minigame is selected to be ‘active’, a function will run a tick function within your folder. This should be your primary method of activating commands. (If you need any help with this, you can always ask for help in the Bedrock Commands Community Discord!)
+- Your ID will serve as both your plot number and your ‘minigame’ score number eg. "23"
+- Your string will be the name that you should give to your dedicated function folder eg. "spleef"
+When your minigame is selected to be ‘active’, a function will run a tick function within your folder (in this case, "spleef/tick"). This should be your primary method of activating commands. (If you need any help with this, you can always ask for help in the Bedrock Commands Community Discord!)
 
 Your plot will be 96 blocks by 96 blocks. When you download the template world, you should run the command:
 
